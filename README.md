@@ -7,19 +7,14 @@
 <br/>
 
 <div align="center">
-   Back-end programmer. NixOS enthusiast, interested in Go, Rust and functional programming languages. <br/> I like to code programs for my personal use, here are some of them:
+   Back-end programmer. NixOS enthusiast, interested in Go, Rust and functional programming languages. <br/> I like to code programs for my personal use, here are some of them: <a href="https://github.com/ImGabe/to-do">to-do</a>, <a href="https://github.com/ImGabe/solid-wallpaper">solid-wallpaper</a> and <a href="https://github.com/ImGabe/gscroll">gscroll</a>
 </div>
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/imgabe/to-do">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imgabe&repo=to-do" />
-</a>
-<a href="https://github.com/imgabe/gscroll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imgabe&repo=gscroll" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgabe&layout=compact&hide=css,html,shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
