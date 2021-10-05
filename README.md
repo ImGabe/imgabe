@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">I'm Gabe.</h1>
 
-<!--
-**ImGabe/imgabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  Welcome to my GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   Back-end programmer. NixOS enthusiast, interested in Go, Rust and functional programming languages. <br/> I like to code programs for my personal use, here are some of them:
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/imgabe/to-do">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imgabe&repo=to-do" />
+</a>
+<a href="https://github.com/imgabe/gscroll">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imgabe&repo=gscroll" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  Contacts: <a href="mailto:gabrielpmonte@hotmail.com">email</a> and <a href="https://telegram.me/imgabe">telegram</a>.
+</div>
