@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-   Back-end programmer. NixOS enthusiast, interested in Go, Rust and functional programming languages. <br/> I like to code programs for my personal use, here are some of them: <a href="https://github.com/ImGabe/gscroll">gscroll</a>, <a href="https://github.com/ImGabe/to-do">to-do</a> and <a href="https://github.com/ImGabe/solid-wallpaper">solid-wallpaper</a>.
+   Back-end programmer. NixOS enthusiast, interested in Go, Rust and functional programming languages. <br/> I like to code programs for my personal use, here are some of them: <a href="https://github.com/ImGabe/gscroll">Ulink</a>, <a href="https://github.com/ImGabe/to-do">to-do</a> and <a href="https://github.com/ImGabe/solid-wallpaper">solid-wallpaper</a>.
 </div>
 
 <br/>
