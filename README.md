@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgabe&layout=compact&hide=css,html,shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgabe&layout=compact&hide=css,html,shell,c,dockerfile,nix&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
